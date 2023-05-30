@@ -8,7 +8,7 @@ This series is core to [TALENT-PLAN](https://github.com/pingcap/talent-plan). It
 
 ## [Schedule](https://github.com/pingcap/talent-plan/blob/master/courses/rust/docs/lesson-plan.md)
 - [ ] Prerequisite: [Rust Book](https://doc.rust-lang.org/book/)
-- [ ] Project 1: The Rust toolbox
-- [ ] Project 2: Log-structured file I/O
-- [ ] Project 3: Synchronous client-server networking
-- [ ] Project 4: Concurrency and parallelism
+- [ ] Project 1: [The Rust toolbox](https://github.com/pingcap/talent-plan/blob/master/courses/rust/projects/project-1/README.md)
+- [ ] Project 2: [Log-structured file I/O](https://github.com/pingcap/talent-plan/blob/master/courses/rust/projects/project-2/README.md)
+- [ ] Project 3: [Synchronous client-server networking](https://github.com/pingcap/talent-plan/blob/master/courses/rust/projects/project-3/README.md)
+- [ ] Project 4: [Concurrency and parallelism](https://github.com/pingcap/talent-plan/blob/master/courses/rust/projects/project-4/README.md)
